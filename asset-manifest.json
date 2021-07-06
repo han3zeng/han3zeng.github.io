@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "./static/js/main.676bca07.chunk.js",
+    "main.js.map": "./static/js/main.676bca07.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7bba7eb0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7bba7eb0.js.map",
+    "static/js/2.6bf6230d.chunk.js": "./static/js/2.6bf6230d.chunk.js",
+    "static/js/2.6bf6230d.chunk.js.map": "./static/js/2.6bf6230d.chunk.js.map",
+    "static/js/3.84875e71.chunk.js": "./static/js/3.84875e71.chunk.js",
+    "static/js/3.84875e71.chunk.js.map": "./static/js/3.84875e71.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.6bf6230d.chunk.js.LICENSE.txt": "./static/js/2.6bf6230d.chunk.js.LICENSE.txt",
+    "static/media/covid-19-china-lockdown.d3820768.png": "./static/media/covid-19-china-lockdown.d3820768.png",
+    "static/media/github-logo.e0df113a.svg": "./static/media/github-logo.e0df113a.svg",
+    "static/media/han-recall-landing.56c8a939.png": "./static/media/han-recall-landing.56c8a939.png",
+    "static/media/linkedin-logo.7cc49b82.svg": "./static/media/linkedin-logo.7cc49b82.svg",
+    "static/media/open-in-new.05b4659d.svg": "./static/media/open-in-new.05b4659d.svg",
+    "static/media/pro-360-img.5b93b4d3.png": "./static/media/pro-360-img.5b93b4d3.png",
+    "static/media/revenge-porn-landing.2efee3f5.png": "./static/media/revenge-porn-landing.2efee3f5.png",
+    "static/media/taiwanese-labor-landing.41f471cc.png": "./static/media/taiwanese-labor-landing.41f471cc.png",
+    "static/media/tw-reporter-logo.f2ea9c7e.png": "./static/media/tw-reporter-logo.f2ea9c7e.png",
+    "static/media/tw-reporter-og.e6720706.jpg": "./static/media/tw-reporter-og.e6720706.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bba7eb0.js",
+    "static/js/2.6bf6230d.chunk.js",
+    "static/js/main.676bca07.chunk.js"
+  ]
+}
