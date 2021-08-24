@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.js": "./static/js/main.676bca07.chunk.js",
-    "main.js.map": "./static/js/main.676bca07.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7bba7eb0.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7bba7eb0.js.map",
-    "static/js/2.6bf6230d.chunk.js": "./static/js/2.6bf6230d.chunk.js",
-    "static/js/2.6bf6230d.chunk.js.map": "./static/js/2.6bf6230d.chunk.js.map",
-    "static/js/3.84875e71.chunk.js": "./static/js/3.84875e71.chunk.js",
-    "static/js/3.84875e71.chunk.js.map": "./static/js/3.84875e71.chunk.js.map",
+    "main.js": "./static/js/main.bd3a6efd.chunk.js",
+    "main.js.map": "./static/js/main.bd3a6efd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.500b7999.js",
+    "runtime-main.js.map": "./static/js/runtime-main.500b7999.js.map",
+    "static/js/2.f8137087.chunk.js": "./static/js/2.f8137087.chunk.js",
+    "static/js/2.f8137087.chunk.js.map": "./static/js/2.f8137087.chunk.js.map",
+    "static/js/3.684eba4d.chunk.js": "./static/js/3.684eba4d.chunk.js",
+    "static/js/3.684eba4d.chunk.js.map": "./static/js/3.684eba4d.chunk.js.map",
     "index.html": "./index.html",
-    "static/js/2.6bf6230d.chunk.js.LICENSE.txt": "./static/js/2.6bf6230d.chunk.js.LICENSE.txt",
+    "static/js/2.f8137087.chunk.js.LICENSE.txt": "./static/js/2.f8137087.chunk.js.LICENSE.txt",
     "static/media/covid-19-china-lockdown.d3820768.png": "./static/media/covid-19-china-lockdown.d3820768.png",
+    "static/media/dashboard-landing.3550d7da.svg": "./static/media/dashboard-landing.3550d7da.svg",
+    "static/media/dashboard.fc8e6086.svg": "./static/media/dashboard.fc8e6086.svg",
     "static/media/github-logo.e0df113a.svg": "./static/media/github-logo.e0df113a.svg",
     "static/media/han-recall-landing.56c8a939.png": "./static/media/han-recall-landing.56c8a939.png",
     "static/media/linkedin-logo.7cc49b82.svg": "./static/media/linkedin-logo.7cc49b82.svg",
@@ -22,8 +24,8 @@
     "static/media/tw-reporter-og.e6720706.jpg": "./static/media/tw-reporter-og.e6720706.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bba7eb0.js",
-    "static/js/2.6bf6230d.chunk.js",
-    "static/js/main.676bca07.chunk.js"
+    "static/js/runtime-main.500b7999.js",
+    "static/js/2.f8137087.chunk.js",
+    "static/js/main.bd3a6efd.chunk.js"
   ]
 }
